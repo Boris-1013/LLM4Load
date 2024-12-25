@@ -1,0 +1,1 @@
+The Alibaba 2022 Dataset provides 13-day CPU utilization data for each BM node, sampled every 60 seconds. It supports workload prediction for resource allocation and scaling, offering insights into short-term and long-term patterns.
